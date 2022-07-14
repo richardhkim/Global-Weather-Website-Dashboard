@@ -1,5 +1,9 @@
 # Unit 11 Homework: Web Visualization Dashboard 
 
+------------------------------------------------------------------------
+Live Website Demo: https://richardhkim.github.io/Web-Design-Challenge/
+------------------------------------------------------------------------
+
 ## Background
 
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
